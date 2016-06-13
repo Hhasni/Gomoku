@@ -1,0 +1,5 @@
+/nfs/zfs-student-4/users/2013/mmoumini/lol/lib/SFML/lib/sfml_src/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir
+/nfs/zfs-student-4/users/2013/mmoumini/lol/lib/SFML/lib/sfml_src/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir
+/nfs/zfs-student-4/users/2013/mmoumini/lol/lib/SFML/lib/sfml_src/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir
+/nfs/zfs-student-4/users/2013/mmoumini/lol/lib/SFML/lib/sfml_src/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir
+/nfs/zfs-student-4/users/2013/mmoumini/lol/lib/SFML/lib/sfml_src/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir

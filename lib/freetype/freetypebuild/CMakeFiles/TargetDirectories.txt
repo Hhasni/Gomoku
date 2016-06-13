@@ -1,0 +1,2 @@
+/nfs/zfs-student-4/users/2013/mmoumini/newpliskin/lib/SFML/lib/freetype/freetypebuild/CMakeFiles/freetype.dir
+/nfs/zfs-student-4/users/2013/mmoumini/newpliskin/lib/SFML/lib/freetype/freetypebuild/CMakeFiles/dist.dir
